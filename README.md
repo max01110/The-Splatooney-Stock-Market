@@ -1,15 +1,12 @@
-# The-Splatooney-Stock-Market
-A stock market simulator, to teach and learn how to trade --> 1st place Game Making Competition
+# Stock-Market-Simulator-Game
+1st Place winning game at DPCDSB Arcade Contest. This game simulates the hpw stock trading is.
+-------------------------------------------
+Description:
+This game uses webscraping in order to get realtime stock prices. The theme of the contest was "Splat", hence the overall look/theme of this game.
+It is still a work in progress, and new ideas are still being implemented
 
-**Won First place for Innovation at 2019 DPCDSB Game Making Contest**
-
-## Description
-- One my very first projects
-- Takes actual data from NYSE stock market by webscraping
-- Allows user to sell, or buy stocks
-- Has (fake) leaderboard to compare your result with computer bots (random numbers)
-
-## Coded With
-- Fully coded in Python
-- Used pyGame
-- Song _Miro Petals_ from: https://www.youtube.com/watch?v=LYojSA0zGaY
+To play game:
+1/ Open file called "Stock Simulator Game"
+2/ Run the python file
+3/ If it does not work, you might need to install pygame (in your terminal type: "pip install pygame")
+4/ Enjoy
