@@ -1,7 +1,7 @@
 # The-Splatooney-Stock-Market
 A stock market simulator, to teach and learn how to trade --> 1st place Game Making Competition
 
-** Won First place for Innovation at 2019 DPCDSB Game Making Contest **
+**Won First place for Innovation at 2019 DPCDSB Game Making Contest**
 
 ## Description
 - One my very first projects
