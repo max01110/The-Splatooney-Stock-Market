@@ -78,7 +78,7 @@ pygame.mixer.music.play(-1)
         #1/ AAPL
 AAPL = getPrice("https://fr.finance.yahoo.com/quote/AAPL?p=AAPL")
          #2/ TSLA
-TSLA = getPrice("https://fr.finance.yahoo.com/quote/TSLA?p=TSLA&.tsrc=fin-srch")
+TSLA = 1
          #3/ AMD
 AMD = getPrice("https://fr.finance.yahoo.com/quote/AMD?p=AMD&.tsrc=fin-srch")
          #4/ WMT
